@@ -1,0 +1,62 @@
+{
+  "classes": {
+    "0": "Classic Smile",
+    "1": "Tilt & Glamour",
+    "2": "Hand on Chin",
+    "3": "Peace & Vibe",
+    "4": "Side Profile",
+    "5": "Rule of Thirds"
+  },
+  "pose_guidelines": {
+    "Classic Smile": {
+      "ideal_tilt": [
+        0,
+        8
+      ],
+      "framing": "Centered",
+      "tip": "Keep shoulders relaxed and smile naturally into the camera."
+    },
+    "Tilt & Glamour": {
+      "ideal_tilt": [
+        12,
+        28
+      ],
+      "framing": "Slight angle",
+      "tip": "Tilt your head 15\u00b0-25\u00b0 to highlight your jawline and key features!"
+    },
+    "Hand on Chin": {
+      "ideal_tilt": [
+        5,
+        15
+      ],
+      "hand_required": true,
+      "tip": "Rest your hand gently under your chin for a thoughtful, chic aesthetic."
+    },
+    "Peace & Vibe": {
+      "ideal_tilt": [
+        5,
+        20
+      ],
+      "gesture_required": true,
+      "tip": "Bring your hand up near your cheek with a peace or cute gesture."
+    },
+    "Side Profile": {
+      "ideal_tilt": [
+        10,
+        20
+      ],
+      "profile_angle": [
+        35,
+        60
+      ],
+      "tip": "Turn your face 45\u00b0 away from camera to capture a sharp side profile."
+    },
+    "Rule of Thirds": {
+      "ideal_offset": [
+        0.25,
+        0.4
+      ],
+      "tip": "Position your face along the vertical grid line for a cinematic model shot."
+    }
+  }
+}

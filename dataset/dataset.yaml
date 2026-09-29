@@ -1,0 +1,13 @@
+kpt_shape:
+- 17
+- 3
+names:
+  0: Classic Smile
+  1: Tilt & Glamour
+  2: Hand on Chin
+  3: Peace & Vibe
+  4: Side Profile
+  5: Rule of Thirds
+path: /Users/mylisa/github fun projects with AI/Mood Tunes AI/dataset
+train: images/train
+val: images/val
